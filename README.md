@@ -115,9 +115,9 @@ The spreadsheet should have the following columns in row 1:
 |---|---|---|---|---|---|---|
 
 ## Google Sheets Template
-[Download the template (xlsx)](budget-tracker-template.xlsx)
+[Download the template (XLSX)](docs/Google-sheets-templates/Budget%20Tracker%20Google%20Sheets%20%28empty%29.xlsx)
 
-[Download the template (csv)](budget-tracker-template.csv)
+[Download the template (CSV)](docs/Google-sheets-templates/Budget%20Tracker%20Google%20Sheets%20%28empty%29.csv)
 
 ### **Security Note !**
 Never commit `.env` or `service_account.json` to GitHub. Both are excluded through `.gitignore`. Use your own credentials and spreadsheet when running the application.
