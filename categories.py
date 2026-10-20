@@ -1,0 +1,18 @@
+EXPENSE_CATEGORIES = [
+    "🥖 Canteen/Quick Food",
+    "🥬 Groceries",
+    "🚋 Transport",
+    "📖 Study Materials",
+    "🏃‍♀️‍➡️ Sport/Gym",
+    "🍭 Snacks & Treats",
+    "🍕 Takeaway",
+    "👗 Clothes & Accessories",
+    "🍿 Entertainment",
+    "🗣️ Social Events/ Going out",
+    "🍨 Hobbies",
+    "✂️ Impulse buys",
+    "🎁 Gifts",
+    "🛬 Holiday",
+    "❓ Misc",
+    "🏠 Accommodation",
+]

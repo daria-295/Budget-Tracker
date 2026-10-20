@@ -1,0 +1,16 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Private credentials and configuration
+.env
+service_account.json
+credentials.json
+token.json
+
+# VS Code workspace settings
+.vscode/
